@@ -1,0 +1,4 @@
+.git
+*.md
+sample_output.txt
+docker-compose.yml

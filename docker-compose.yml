@@ -1,0 +1,4 @@
+services:
+  setup:
+    build: .
+    image: my-script
